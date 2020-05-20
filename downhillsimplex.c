@@ -351,4 +351,4 @@ double standard_deviation(simplex *s)
     }
     // Return standard deviation as sqrt of variance.
     return sqrt(sd);
-}
+} 
