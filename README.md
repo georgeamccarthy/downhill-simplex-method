@@ -10,3 +10,5 @@ Rosenbrock visualized with plot.py in 2D to show local vs global maxima:
 CMD output of downhillsimplex.c:
 
 ![cmdoutput](https://user-images.githubusercontent.com/65653499/82500132-c5379380-9aea-11ea-9a29-e7c54f8292e1.png)
+
+The project is laid out as it was submitted in assignment.pdf.
